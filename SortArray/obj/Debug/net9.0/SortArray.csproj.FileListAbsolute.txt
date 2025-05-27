@@ -1,0 +1,14 @@
+D:\C#\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.AssemblyInfoInputs.cache
+D:\C#\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.AssemblyInfo.cs
+D:\C#\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.csproj.CoreCompileInputs.cache
+D:\C#\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.exe
+D:\C#\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.deps.json
+D:\C#\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.runtimeconfig.json
+D:\C#\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.dll
+D:\C#\PRN212-SE1855\SortArray\bin\Debug\net9.0\SortArray.pdb
+D:\C#\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.dll
+D:\C#\PRN212-SE1855\SortArray\obj\Debug\net9.0\refint\SortArray.dll
+D:\C#\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.pdb
+D:\C#\PRN212-SE1855\SortArray\obj\Debug\net9.0\SortArray.genruntimeconfig.cache
+D:\C#\PRN212-SE1855\SortArray\obj\Debug\net9.0\ref\SortArray.dll

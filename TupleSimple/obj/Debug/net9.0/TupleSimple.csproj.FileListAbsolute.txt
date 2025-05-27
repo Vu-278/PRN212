@@ -1,0 +1,14 @@
+D:\C#\PRN212-SE1855\TupleSimple\bin\Debug\net9.0\TupleSimple.exe
+D:\C#\PRN212-SE1855\TupleSimple\bin\Debug\net9.0\TupleSimple.deps.json
+D:\C#\PRN212-SE1855\TupleSimple\bin\Debug\net9.0\TupleSimple.runtimeconfig.json
+D:\C#\PRN212-SE1855\TupleSimple\bin\Debug\net9.0\TupleSimple.dll
+D:\C#\PRN212-SE1855\TupleSimple\bin\Debug\net9.0\TupleSimple.pdb
+D:\C#\PRN212-SE1855\TupleSimple\obj\Debug\net9.0\TupleSimple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PRN212-SE1855\TupleSimple\obj\Debug\net9.0\TupleSimple.AssemblyInfoInputs.cache
+D:\C#\PRN212-SE1855\TupleSimple\obj\Debug\net9.0\TupleSimple.AssemblyInfo.cs
+D:\C#\PRN212-SE1855\TupleSimple\obj\Debug\net9.0\TupleSimple.csproj.CoreCompileInputs.cache
+D:\C#\PRN212-SE1855\TupleSimple\obj\Debug\net9.0\TupleSimple.dll
+D:\C#\PRN212-SE1855\TupleSimple\obj\Debug\net9.0\refint\TupleSimple.dll
+D:\C#\PRN212-SE1855\TupleSimple\obj\Debug\net9.0\TupleSimple.pdb
+D:\C#\PRN212-SE1855\TupleSimple\obj\Debug\net9.0\TupleSimple.genruntimeconfig.cache
+D:\C#\PRN212-SE1855\TupleSimple\obj\Debug\net9.0\ref\TupleSimple.dll

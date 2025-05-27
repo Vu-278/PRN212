@@ -1,0 +1,14 @@
+D:\C#\PRN212-SE1855\NextedLoop\bin\Debug\net9.0\NextedLoop.exe
+D:\C#\PRN212-SE1855\NextedLoop\bin\Debug\net9.0\NextedLoop.deps.json
+D:\C#\PRN212-SE1855\NextedLoop\bin\Debug\net9.0\NextedLoop.runtimeconfig.json
+D:\C#\PRN212-SE1855\NextedLoop\bin\Debug\net9.0\NextedLoop.dll
+D:\C#\PRN212-SE1855\NextedLoop\bin\Debug\net9.0\NextedLoop.pdb
+D:\C#\PRN212-SE1855\NextedLoop\obj\Debug\net9.0\NextedLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PRN212-SE1855\NextedLoop\obj\Debug\net9.0\NextedLoop.AssemblyInfoInputs.cache
+D:\C#\PRN212-SE1855\NextedLoop\obj\Debug\net9.0\NextedLoop.AssemblyInfo.cs
+D:\C#\PRN212-SE1855\NextedLoop\obj\Debug\net9.0\NextedLoop.csproj.CoreCompileInputs.cache
+D:\C#\PRN212-SE1855\NextedLoop\obj\Debug\net9.0\NextedLoop.dll
+D:\C#\PRN212-SE1855\NextedLoop\obj\Debug\net9.0\refint\NextedLoop.dll
+D:\C#\PRN212-SE1855\NextedLoop\obj\Debug\net9.0\NextedLoop.pdb
+D:\C#\PRN212-SE1855\NextedLoop\obj\Debug\net9.0\NextedLoop.genruntimeconfig.cache
+D:\C#\PRN212-SE1855\NextedLoop\obj\Debug\net9.0\ref\NextedLoop.dll

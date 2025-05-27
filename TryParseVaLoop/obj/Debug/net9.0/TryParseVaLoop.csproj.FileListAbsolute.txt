@@ -1,0 +1,14 @@
+D:\C#\PRN212-SE1855\TryParseVaLoop\bin\Debug\net9.0\TryParseVaLoop.exe
+D:\C#\PRN212-SE1855\TryParseVaLoop\bin\Debug\net9.0\TryParseVaLoop.deps.json
+D:\C#\PRN212-SE1855\TryParseVaLoop\bin\Debug\net9.0\TryParseVaLoop.runtimeconfig.json
+D:\C#\PRN212-SE1855\TryParseVaLoop\bin\Debug\net9.0\TryParseVaLoop.dll
+D:\C#\PRN212-SE1855\TryParseVaLoop\bin\Debug\net9.0\TryParseVaLoop.pdb
+D:\C#\PRN212-SE1855\TryParseVaLoop\obj\Debug\net9.0\TryParseVaLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PRN212-SE1855\TryParseVaLoop\obj\Debug\net9.0\TryParseVaLoop.AssemblyInfoInputs.cache
+D:\C#\PRN212-SE1855\TryParseVaLoop\obj\Debug\net9.0\TryParseVaLoop.AssemblyInfo.cs
+D:\C#\PRN212-SE1855\TryParseVaLoop\obj\Debug\net9.0\TryParseVaLoop.csproj.CoreCompileInputs.cache
+D:\C#\PRN212-SE1855\TryParseVaLoop\obj\Debug\net9.0\TryParseVaLoop.dll
+D:\C#\PRN212-SE1855\TryParseVaLoop\obj\Debug\net9.0\refint\TryParseVaLoop.dll
+D:\C#\PRN212-SE1855\TryParseVaLoop\obj\Debug\net9.0\TryParseVaLoop.pdb
+D:\C#\PRN212-SE1855\TryParseVaLoop\obj\Debug\net9.0\TryParseVaLoop.genruntimeconfig.cache
+D:\C#\PRN212-SE1855\TryParseVaLoop\obj\Debug\net9.0\ref\TryParseVaLoop.dll
