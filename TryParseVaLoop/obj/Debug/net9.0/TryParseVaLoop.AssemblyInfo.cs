@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TryParseVaLoop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3c98cfaf20ee1a2882fdb13e128669e038b43d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TryParseVaLoop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TryParseVaLoop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
